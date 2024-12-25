@@ -10,8 +10,8 @@ Import data to SQL database
 
 # Project Insights - Week 53
 <br>
-<br>
 Week_On_Week change:
+<br>
 <br>
  Revenue increased by 28.8%
  <br>
