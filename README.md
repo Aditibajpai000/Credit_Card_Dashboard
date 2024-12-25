@@ -23,18 +23,18 @@ Week_On_Week change:
 Overview:
 <br>
 <br>
- Overal revenue is 56.5M
+1. Overal revenue is 56.5M
  <br>
- Total interest is 8M
+2. Total interest is 8M
  <br>
- Total Transaction amount is 46M
+3. Total Transaction amount is 46M
  <br>
- Male customers are contributing more in revenue 31M and 26M
+4. Male customers are contributing more in revenue 31M and 26M
  <br>
- Blue & Silver credit card are contributing to 93% of overall transactions
+5. Blue & Silver credit card are contributing to 93% of overall transactions
  <br>
- TX, NY & CA is contributing to 68%
+6. TX, NY & CA is contributing to 68%
  <br>
- Overall Ativation rate is 57.46%
+7. Overall Ativation rate is 57.46%
  <br>
- Overall Delinquent rate is 6.06%
+8. Overall Delinquent rate is 6.06%
