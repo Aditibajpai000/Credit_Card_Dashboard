@@ -19,7 +19,9 @@ Week_On_Week change:
  <br>
  Customer count increased by 1.80%
  <br>
+ <br>
 Overview:
+<br>
 <br>
  Overal revenue is 56.5M
  <br>
