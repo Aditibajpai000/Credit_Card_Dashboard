@@ -13,11 +13,11 @@ Import data to SQL database
 Week_On_Week change:
 <br>
 <br>
- Revenue increased by 28.8%
+1. Revenue increased by 28.8%
  <br>
- Total Transaction Amount and count increased by 2.22% & 1.74%
+2. Total Transaction Amount and count increased by 2.22% & 1.74%
  <br>
- Customer count increased by 1.80%
+3. Customer count increased by 1.80%
  <br>
  <br>
 Overview:
