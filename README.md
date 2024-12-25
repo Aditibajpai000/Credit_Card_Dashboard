@@ -9,6 +9,7 @@ Import data to SQL database
 3. Import csv file into SQL
 
 Project Insights - Week 53
+<br>
 Week_On_Week change:
  Revenue increased by 28.8%
  Total Transaction Amount and count increased by 2.22% & 1.74%
